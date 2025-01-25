@@ -29,7 +29,7 @@ These events are designed to be flexible and adaptable to any location type whil
    - The surroundings are tranquil. Regain health or energy, but lose time.
 
 8. **Spirit Beast Encounter**
-   - A spirit beast appears. Decide to fight, flee, or tame it for potential rewards or help.
+   - A spirit beast appears. Decide to fight or flee it for potential rewards or help.
 
 9. **Vision of the Past**
    - A strange vision overtakes you, showing events from the past. Gain insight into the map or receive a clue for a hidden event.
