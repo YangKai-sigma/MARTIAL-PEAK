@@ -32,7 +32,7 @@ These events are designed to be flexible and adaptable to any location type whil
    - The surroundings are tranquil. Regain health or energy, but lose time.
 
 8. **Spirit Beast Encounter**
-   - A spirit beast appears. Decide to fight, flee, or tame it for potential rewards or help.
+   - A spirit beast appears. Decide to fight it for potential rewards or flee.
 
 9. **Vision of the Past**
    - A strange vision overtakes you, showing events from the past. Gain insight into the map or receive a clue for a hidden event.
@@ -142,10 +142,10 @@ These events are designed to be flexible and adaptable to any location type whil
    - A powerful whirlpool forms, pulling you off course. Roll to escape or lose resources in the struggle.
 
 2. **Fishing Opportunity**
-   - The waters are teeming with fish. Spend time fishing to gain food or minor tradeable items.
+   - The waters are teeming with fish. Spend time fishing to gain fish to sell.
 
 3. **Capsized Boat**
-   - You come across a capsized boat. Search for survivors or loot the wreck for useful resources.
+   - You come across a capsized boat. Loot the wreck for useful resources.
 
 4. **Mysterious Ripple**
    - Strange ripples disturb the surface. Investigate to uncover a hidden treasure or face a lurking threat.
@@ -172,16 +172,16 @@ These events are designed to be flexible and adaptable to any location type whil
     - You spot a submerged cave entrance. Choose to explore for hidden rewards, but risk running out of air.
 
 12. **Reflection of the Past**
-    - The water’s surface shows visions of your past deeds. Gain insight or a clue for a hidden event.
+    - The water’s surface shows visions of your past deeds. Gain cultivation.
 
 13. **Stormy Weather**
-    - A sudden storm brews, making travel dangerous. Lose movement or health unless you take shelter.
+    - A sudden storm brews, making travel dangerous. Lose movement or health unless you take shelter (not do anything).
 
 14. **Glowing Algae**
     - Luminescent algae light up the water. Collect them for a rare alchemical ingredient.
 
 15. **Migrating Beasts**
-    - A school of large aquatic creatures blocks your path. Decide whether to fight, wait, or navigate around them.
+    - A school of large aquatic creatures blocks your path. Decide whether to fight or flee.
 
 16. **Underwater Ruins**
     - You discover ruins beneath the surface. Dive to explore and potentially uncover valuable artifacts.
@@ -291,7 +291,7 @@ These events are designed to be flexible and adaptable to any location type whil
    - The ceiling groans ominously. Quickly roll to find a safe spot or suffer damage from falling rocks.
 
 9. **Spirit Beast Lair**
-   - You stumble into the lair of a spirit beast. Choose to fight, flee, or attempt to tame it for a reward.
+   - You stumble into the lair of a spirit beast. Choose to fight or flee.
 
 10. **Fossil Discovery**
     - Ancient fossils line the walls. Study them to gain insight into the world or extract them for profit.
@@ -300,13 +300,13 @@ These events are designed to be flexible and adaptable to any location type whil
     - The cave grows eerily silent. Roll to maintain your composure or suffer a temporary penalty to movement.
 
 12. **Vein of Ore**
-    - You discover a rich vein of ore. Spend time mining to gather coins or crafting materials.
+    - You discover a rich vein of ore. Get money.
 
 13. **Lost Explorer**
     - You encounter a disoriented explorer. Help them find their way for a reward or leave them to their fate.
 
 14. **Cursed Altar**
-    - A dark altar radiates ominous energy. Choose to investigate and risk a curse, or leave it untouched.
+    - A dark altar radiates ominous energy. Get poisoned
 
 15. **Dripping Water**
     - The sound of dripping water leads you to a hidden spring. Gain a minor healing effect or energy boost.
@@ -315,13 +315,13 @@ These events are designed to be flexible and adaptable to any location type whil
     - A shadow moves in the darkness. Confront it to uncover a hidden event or retreat to safety.
 
 17. **Gem Cache**
-    - A small cache of precious gems is hidden in the cave. Gather them quickly before the walls become unstable.
+    - A small cache of precious gems is hidden in the cave.
 
 18. **Ancient Guardian**
     - A stone guardian blocks your path. Solve its riddle or defeat it to proceed.
 
 19. **Haunting Echoes**
-    - Ghostly whispers fill the cave. Roll to resist their influence or suffer a minor penalty to your focus.
+    - Ghostly whispers fill the cave. Roll to resist damage.
 
 20. **Buried Treasure**
     - A buried chest lies beneath the cave floor. Dig it up for valuable rewards or risk triggering a trap.
