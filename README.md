@@ -66,5 +66,70 @@ These events are designed to be flexible and adaptable to any location type whil
 
 20. **Treacherous Path**
     - The path ahead is difficult to traverse. Lose movement or resources, but uncover a hidden reward.
+### Mountain Tile Events
+
+### **Mountain Tile Events:**
+
+1. **Rockslide!**
+   - A sudden rockslide blocks your path. Pass a skill check to clear the way or find an alternate route. Failure causes you to lose movement or resources.
+
+2. **Hidden Cavern**
+   - You discover a hidden cavern. Choose to explore for treasure or rest. Exploration may yield rewards but carries a risk of encountering danger.
+
+3. **Mountain Spirit**
+   - A powerful mountain spirit offers a boon if you pass a test of strength or endurance. Success grants a significant reward; failure causes a temporary penalty.
+
+4. **Treacherous Climb**
+   - The steep terrain tests your resolve. Pass a skill check to proceed safely. Failure results in injury or loss of resources.
+
+5. **Rare Herbs**
+   - You spot rare medicinal herbs growing on the cliffs. Collect them to gain an alchemy ingredient or minor healing effect.
+
+6. **Echoing Winds**
+   - The winds carry strange whispers. Roll to determine if you gain insight into the map or suffer a disorienting effect.
+
+7. **Mountain Beast Encounter**
+   - A territorial beast blocks your path. Choose to fight, flee, or attempt to calm it. Outcomes vary based on your decision.
+
+8. **Ancient Markings**
+   - Strange carvings on the rocks hint at an ancient technique. Roll to decipher them and potentially gain a cultivation boost.
+
+9. **Precarious Ledge**
+   - You must cross a narrow ledge. Roll to avoid falling; failure results in lost resources or health.
+
+10. **Golden Vein**
+    - You discover a vein of gold or valuable minerals. Extracting it takes time but yields coins or tradeable resources.
+
+11. **Avalanche Warning**
+    - The ground trembles, signaling an impending avalanche. You must quickly retreat or find shelter to avoid damage.
+
+12. **Meditation Spot**
+    - A serene location allows you to meditate safely. Gain a small cultivation boost without risk.
+
+13. **Cliffside Shrine**
+    - A shrine dedicated to an ancient deity offers blessings. Sacrifice a resource to gain a temporary buff or boon.
+
+14. **Harsh Cold**
+    - The cold mountain air saps your strength. Lose energy or resources unless you have protective gear.
+
+15. **Rare Bird Sighting**
+    - A rare bird soars above, leading you to a hidden cache or granting inspiration for your journey.
+
+16. **Miner's Tools**
+    - You find abandoned tools and supplies. Use them to gain a minor resource or enhance your next gathering attempt.
+
+17. **Crumbling Path**
+    - The path ahead begins to collapse. Roll to jump to safety; failure causes minor damage or lost movement.
+
+18. **Hidden Hot Spring**
+    - You stumble upon a hidden hot spring. Rest here to recover health or energy, but lose some time.
+
+19. **Echoing Cries**
+    - Distant cries for help echo through the mountains. Choose to investigate, risking a trap, or continue on your way.
+
+20. **Meteor Shard**
+    - A fallen meteorite glows with energy. Collect a fragment to gain a rare crafting material or unique item.
+
+---
 
 ---
