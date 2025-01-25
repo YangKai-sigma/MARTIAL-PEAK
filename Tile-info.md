@@ -200,7 +200,7 @@ These events are designed to be flexible and adaptable to any location type whil
 
 ---
 
-### **Field/Forest Tile Events:**
+### **Forest Tile Events:**
 
 1. **Foraging Opportunity**
    - The area is rich with edible plants and herbs. Collect them for a small resource boost or minor healing.
