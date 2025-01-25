@@ -4,6 +4,7 @@
 - [Water Tile Events](#water-tile-events)
 - [Forest Tile Events](#forest-tile-events)
 - [Cave Tile Events](#cave-tile-events)
+
 These events are designed to be flexible and adaptable to any location type while maintaining variety in gameplay.
 
 ---
